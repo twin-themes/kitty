@@ -20,7 +20,7 @@ A pair of sibling themes for [kitty](https://sw.kovidgoyal.net/kitty/). Twin foc
 
 ## Installation
 
-### Automatic
+<!-- ### Automatic
 
 Run this command inside kitty to access all kitty themes.
 
@@ -28,7 +28,7 @@ Run this command inside kitty to access all kitty themes.
 kitty +kitten themes
 ```
 
-Search for Twin Blue or Twin Grey to install.
+Search for Twin Blue or Twin Grey to install. -->
 
 ### Manual
 
