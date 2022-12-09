@@ -53,3 +53,7 @@ include ./twin-blue.conf
 # or
 include ./twin-grey.conf
 ```
+
+## License
+
+[MIT](/LICENSE)
