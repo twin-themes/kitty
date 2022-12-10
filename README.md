@@ -1,8 +1,8 @@
-# Twin Theme for kitty
+# Twin for kitty
 
-A pair of sibling themes for [kitty](https://sw.kovidgoyal.net/kitty/). Twin focuses on readability and comfort for those who prefer
+A pair of sibling themes for [kitty](https://sw.kovidgoyal.net/kitty/). Twin focuses on readability and comfort.
 
-**Blue** goes for vibrant colors while **Grey** emphasizes more cozier, dimmed colors.
+**Blue** is all about vibrant colors. **Grey** is cozier, with dimmed colors.
 
 ## Palette
 
