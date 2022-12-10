@@ -10,13 +10,13 @@ A pair of sibling themes for [kitty](https://sw.kovidgoyal.net/kitty/). Twin foc
 
 ![Twin Blue Palette](/img/tb_palette.png)
 
-![Twin Blue Screenshot](/img/tb_sshot.png)
+![Twin Blue Screenshot](/img/tb.png)
 
 ## Twin Grey
 
 ![Twin Grey](/img/tg_palette.png)
 
-![Twin Grey Screenshot](/img/tg_sshot.png)
+![Twin Grey Screenshot](/img/tg.png)
 
 ## Installation
 
